@@ -5,4 +5,4 @@
 app/src/main/res/raw/
 ```
 
-
+基于微软官方的YOLOv8安卓部署项目简洁化
